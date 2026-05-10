@@ -1,0 +1,11 @@
+transformers>=4.35.0
+accelerate
+datasets
+timm
+medmnist
+scikit-learn
+matplotlib
+seaborn
+torchmetrics
+opencv-python-headless
+pyyaml
