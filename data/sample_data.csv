@@ -1,0 +1,9 @@
+image_id,label,label_name
+blood_001.png,0,basophil
+blood_002.png,1,eosinophil
+blood_003.png,2,erythroblast
+blood_004.png,3,ig
+blood_005.png,4,lymphocyte
+blood_006.png,5,monocyte
+blood_007.png,6,neutrophil
+blood_008.png,7,platelet
